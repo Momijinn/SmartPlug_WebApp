@@ -8,7 +8,8 @@ Control the Smart Plug([HS105](https://amzn.to/3eVmjTj)) with Web Application.
 
 ## Demo
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">スマートプラグをごにょごにょして web アプリでも on/off してみた <a href="https://t.co/1vrYpZBmya">pic.twitter.com/1vrYpZBmya</a></p>&mdash; みやかわ (@momijinn_aka) <a href="https://twitter.com/momijinn_aka/status/1254293989252935680?ref_src=twsrc%5Etfw">April 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Click below image.
+[![thumbnail](https://pbs.twimg.com/ext_tw_video_thumb/1254293916913827841/pu/img/NU2LMEIbNx6WR_aY.jpg)](https://twitter.com/momijinn_aka/status/1254293989252935680/video/1)
 
 ## Usage
 
